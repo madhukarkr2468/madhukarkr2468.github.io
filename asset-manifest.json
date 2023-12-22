@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b9fa52e.css",
+    "main.js": "/static/js/main.dfee3aa6.js",
+    "static/js/787.78f1408d.chunk.js": "/static/js/787.78f1408d.chunk.js",
+    "static/media/madhukar.png": "/static/media/madhukar.da6989130421616c231e.png",
+    "static/media/Bewakoof.png": "/static/media/Bewakoof.2e5f95740a541aa5cb78.png",
+    "static/media/swiggy.png": "/static/media/swiggy.b9da1ee747ed036a8053.png",
+    "static/media/nykaa.png": "/static/media/nykaa.8f5f7a252db246b4ec19.png",
+    "static/media/GreenParadise.png": "/static/media/GreenParadise.42795db4d0afa7eac9ee.png",
+    "static/media/BedBathBeyond.png": "/static/media/BedBathBeyond.400891008773fbefdd85.png",
+    "static/media/specialized.png": "/static/media/specialized.6eb30dea4e53a73d56a3.png",
+    "static/media/Rishabh-Gupta-Resume.pdf": "/static/media/Rishabh-Gupta-Resume.bbc63caf8095767a8158.pdf",
+    "static/media/travel.png": "/static/media/travel.278214e8f571f278baf4.png",
+    "index.html": "/index.html",
+    "main.5b9fa52e.css.map": "/static/css/main.5b9fa52e.css.map",
+    "main.dfee3aa6.js.map": "/static/js/main.dfee3aa6.js.map",
+    "787.78f1408d.chunk.js.map": "/static/js/787.78f1408d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9fa52e.css",
+    "static/js/main.dfee3aa6.js"
+  ]
+}
