@@ -13,7 +13,7 @@ export const Github = () => {
       </h1>
       <div className="github">
         <Center>
-          <GitHubCalendar username="madhukarkr2468" />
+          <GitHubCalendar username="Madhukarkrgithub" />
         </Center>
         <SimpleGrid
           w={"95%"}
@@ -24,13 +24,13 @@ export const Github = () => {
           marginTop={"40px"}
         >
           <Center>
-            <Image id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=madhukarkr2468&count_private=true&show_icons=true&theme=radical" />
+            <Image id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=Madhukarkrgithub&count_private=true&show_icons=true&theme=radical" />
           </Center>
           <Center>
-            <Image id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=madhukarkr2468" />
+            <Image id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhukarkrgithub" />
           </Center>
           <Center>
-            <Image id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukarkr2468&show_icons=true&locale=en&layout=compact" />
+            <Image id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhukarkrgithub&show_icons=true&locale=en&layout=compact" />
           </Center>
         </SimpleGrid>
       </div>

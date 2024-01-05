@@ -1,17 +1,17 @@
-import Rishabh_Resume from "./Rishabh-Gupta-Resume.pdf";
+import Madhukar_Resume from "./Madhukar-Kumar-Resume.pdf";
 import styled from "styled-components";
 import { Button } from "./ResumeElements";
 export const Resume1 = () => {
   const openResume = () => {
      window.open(
-      "https://drive.google.com/file/d/1IdCbumX_cu4KMtlS0TMqFGTA8Y_LkKrC/view?usp=sharing"
+      "https://drive.google.com/file/d/1GfB9qLb-wJ5TbeFApF8oo23UMhBsbO3q/view?usp=drive_link"
         );
   };
   return (
     <div>
       <a
-       href={Rishabh_Resume}
-       download="Rishabh-Gupta-Resume"
+       href={Madhukar_Resume}
+       download="Madhukar-Kumar-Resume"
         className="nav-link resume"
         id="resume-button-1 resume-link-1"
       >
@@ -32,15 +32,15 @@ export const Resume1 = () => {
 export const Resume2 = () => {
   const openResume = () => {
      window.open(
-          "https://drive.google.com/file/d/1IdCbumX_cu4KMtlS0TMqFGTA8Y_LkKrC/view?usp=sharing"
+          "https://drive.google.com/file/d/1GfB9qLb-wJ5TbeFApF8oo23UMhBsbO3q/view?usp=drive_link"
         );
   };
 
   return (
     <div>
       <a
-       href={Rishabh_Resume}
-       download="Rishabh-Gupta-Resume"
+       href={Madhukar_Resume}
+       download="Madhukar-kumar-Resume"
         className="nav-link resume"
         id="resume-button-2 resume-link-2"
       >

@@ -37,11 +37,11 @@ function Contact() {
             <Box1 id="github">
               <FaGithub />
               <a
-                href="https://github.com/madhukarkr2468"
+                href="https://github.com/Madhukarkrgithub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                madhukarkr2468
+                Madhukarkrgithub
               </a>
             </Box1>
           </Outer>

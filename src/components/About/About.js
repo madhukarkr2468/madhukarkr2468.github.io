@@ -1,11 +1,6 @@
 import React from "react";
-import { stackList } from "../../data/ProjectData";
 import {
   Image,
-  Technologies,
-  Tech,
-  TechImg,
-  TechName,
   ContactWrapper,
   Card
 } from "./AboutElements";

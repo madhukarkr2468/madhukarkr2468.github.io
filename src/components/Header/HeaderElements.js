@@ -19,23 +19,34 @@ export const Nav = styled.div`
 
 export const NavLink = styled(ScrollLink)`
   color: white;
+  // #854ce6
   display: flex;
   gap: 30px;
+  margin: 40px;
   font-size: 1.2rem;
   align-items: center;
   height: 100%;
   cursor: pointer;
   // border: 2px solid red;
   &:hover {
-    color: #7957d5;
+    // color: #7957d5;
+    box-shadow: rgba(130, 35, 216, 0.9) 0px 0px 10px 0px;
+    background-color: #854ce6;
+    border-radius: 8px;
+    color: black;
+    
+  transform: scale(1.05);
   }
 `;
 export const Logo = styled(LinkRouter)`
   h1 {
     font-size: 1.8rem;
-    color: #7957d5;
     // border: 1px solid white;
     padding: 5px 10px;
+    background-color: #854ce6;
+    border-radius: 20px;
+    color: black;
+    }
   }
 `;
 

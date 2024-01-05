@@ -9,6 +9,9 @@ const Header = ({ toggle }) => {
         <h1 className="nav-link home">Madhukar</h1>
       </Logo>
       <NavMenu>
+      <NavLink className="menu-item nav-link about" to="home" smooth={true}>
+          Home
+        </NavLink>
         <NavLink className="menu-item nav-link about" to="about" smooth={true}>
           About
         </NavLink>

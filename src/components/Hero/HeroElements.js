@@ -3,7 +3,7 @@ import { Link as LinkScroll } from "react-scroll";
 
  export const HeroContainer = styled.div`
 // border:1px solid orange;
-  padding-bottom: 2rem;
+  padding-bottom: 6rem;
   padding-top: 8rem;
   padding-right: 1rem;
   padding-left: 1rem;
@@ -31,6 +31,7 @@ export const HeroWrapper = styled.div`
   padding-top:70px;
   flex-direction: row;
   gap:5%;
+  margin-bottom: 10px;
   // border:1px solid red;
 
   @media screen and (max-width: 992px) {
@@ -80,13 +81,18 @@ export const HeroRight = styled.div`
   width: 50%;
   justify-content: center;
   align-items: center;
+  @media screen and (max-width: 992px) {
+    text-align: center;
+    align-items: center;
+    width:100%
+  }
 `;
 
 export const Image = styled.img`
-border-radius: 8%;
-box-shadow: rgba(134, 38, 230, 0.6) 0px 0px 20px -5px; 
+border-radius: 10%;
+// box-shadow: rgba(134, 38, 230, 0.6) 0px 0px 20px -5px; 
 width: 65%;
-
+border: 1px solid #854ce6;
 `;
 
 const ScrollAnimation = keyframes`

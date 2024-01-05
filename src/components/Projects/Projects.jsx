@@ -1,7 +1,7 @@
 import React from 'react'
 import greenParadise from "./projectImages/GreenParadise.png"
 import BedBathBeyond from "./projectImages/BedBathBeyond.png"
-import bewakoof from "./projectImages/Bewakoof.png"
+
 
 import "./Project.css"
 // import { motion } from "framer-motion"
@@ -12,24 +12,24 @@ const data = [
         projectTitle: "Bed-Bath-Beyond",
         techStack: ["React", "Redux", "CSS", "Node.js", "Express", "MongoDB", "RazorPay"],
         description: "Bed Bath & Beyond is a popular American retail chain specializing in home goods and furnishings. With a wide range of products, it offers everything from bedding and kitchenware to décor and organizational solutions.",
-        githubLink: "https://github.com/1ashutoshverma/wood-fans-mern",
-        appLink: "https://wood-fans.vercel.app/"
+        githubLink: "https://github.com/madhukarkr2468/Bed-Bath-Beyond",
+        appLink: "https://65971282c2606534a50187a1--hilarious-cheesecake-167185.netlify.app/"
     },
     {
         img: greenParadise,
         projectTitle: "Green Paradise",
         techStack: ["HTML", "CSS", "JavaScript", "Firebase", "RazorPay"],
         description: "Green Paradise is an e-commerce website designed for plant enthusiasts. It offers a wide variety of plants and gardening supplies, making it easy for users to browse, select, and purchase their favourite plants online.",
-        githubLink: "https://github.com/1ashutoshverma/Green-Paradise",
-        appLink: "https://green-paradise-team.netlify.app/"
+        githubLink: "https://github.com/madhukarkr2468/Green-Paradise",
+        appLink: "https://656cbd8b78668a2ac47fd273--jolly-kitten-c781a7.netlify.app/index.html"
     },
     {
         img: BedBathBeyond,
         projectTitle: "Bed-Bath-Beyond",
         techStack: ["HTML", "CSS", "JavaScript",],
         description: "Bed Bath & Beyond is a popular American retail chain specializing in home goods and furnishings. With a wide range of products, it offers everything from bedding and kitchenware to décor and organizational solutions.",
-        githubLink: "https://github.com/1ashutoshverma/bewakoof-clone",
-        appLink: "https://bewakoof-team.netlify.app/"
+        githubLink: "https://github.com/madhukarkr2468/Bed-Bath-Beyond",
+        appLink: "https://65971282c2606534a50187a1--hilarious-cheesecake-167185.netlify.app/"
     }, 
 ]
 
