@@ -14,14 +14,14 @@ body {
   background: #fafaff;
   font-weight: 400;
 }
-
+/* 
 main {
-  /* background: #151418; */
+  background: #151418;
   background-image: url(https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/blob-haikei.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-}
+} */
 
 a {
   text-decoration: none;

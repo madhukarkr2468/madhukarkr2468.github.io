@@ -1,10 +1,10 @@
 import styled from "styled-components";
 
 export const Outer = styled.div`
-  //border: 1px solid red;
+  // border: 1px solid red;
 `;
 export const Box1 = styled.div`
-  //border: 1px solid blue;
+  // border: 1px solid blue;
   display: flex;
   gap: 20px;
   margin-bottom: 20px;
@@ -50,7 +50,7 @@ export const Box1 = styled.div`
 `;
 
 export const ContactWrapper = styled.div`
- // border:1px solid red;
+//  border:1px solid red;
   padding-top: 5rem;
 `;
 

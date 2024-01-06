@@ -18,7 +18,14 @@ function Contact() {
             </Box1>
             <Box1 id="contact-email">
               <HiMail />
-              <p>madhukarkumar2468@gmail.com</p>
+              {/* <p>madhukarkumar2468@gmail.com</p> */}
+              <a
+              href="mailto:madhukarkumar2468@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+             >
+              madhukarkumar2468@gmail.com
+             </a>
             </Box1>
             <Box1>
               <HiLocationMarker />
