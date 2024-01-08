@@ -1,19 +1,20 @@
 import React from 'react'
 import greenParadise from "./projectImages/GreenParadise.png"
 import BedBathBeyond from "./projectImages/BedBathBeyond.png"
-
+import Myntra from "./projectImages/Myntra.png";
+import Sugar from "./projectImages/Sugar.png";
 
 import "./Project.css"
 // import { motion } from "framer-motion"
 
 const data = [
     {
-        img: BedBathBeyond,
-        projectTitle: "Bed-Bath-Beyond",
-        techStack: ["React", "Redux", "CSS", "Node.js", "Express", "MongoDB", "RazorPay"],
-        description: "Bed Bath & Beyond is a popular American retail chain specializing in home goods and furnishings. With a wide range of products, it offers everything from bedding and kitchenware to décor and organizational solutions.",
-        githubLink: "https://github.com/madhukarkr2468/Bed-Bath-Beyond",
-        appLink: "https://65971282c2606534a50187a1--hilarious-cheesecake-167185.netlify.app/"
+        img: Sugar,
+        projectTitle: "Sugar Cosmetics",
+        techStack: ["React", "Redux", "CSS", "JavaScript ", "RazorPay" ],
+        description: "Sugar Cosmetics is a popular beauty brand known for its diverse range of cruelty-free makeup products. From vivid lipsticks to precise eyeliners, Sugar offers high-quality cosmetics that cater to various styles and skin tones.",
+        githubLink: "",
+        appLink: "https://sugarcosmetics-awcs4db1s-navtejs-projects.vercel.app/"
     },
     {
         img: greenParadise,
@@ -22,6 +23,14 @@ const data = [
         description: "Green Paradise is an e-commerce website designed for plant enthusiasts. It offers a wide variety of plants and gardening supplies, making it easy for users to browse, select, and purchase their favourite plants online.",
         githubLink: "https://github.com/madhukarkr2468/Green-Paradise",
         appLink: "https://656cbd8b78668a2ac47fd273--jolly-kitten-c781a7.netlify.app/index.html"
+    },
+    {
+        img: Myntra,
+        projectTitle: "Myntra-Clone",
+        techStack: ["HTML", "CSS", "JavaScript","Local Storage",],
+        description: "Myntra is an online shopping platform tailored for style enthusiasts. With an extensive collection of trendy apparel, footwear, and accessories, Myntra provides a seamless shopping experience. Explore the latest fashion trends.",
+        githubLink: "https://github.com/Madhukarkrgithub/Myntra-clone",
+        appLink: "https://gilded-vacherin-2e78d2.netlify.app/"
     },
     {
         img: BedBathBeyond,
