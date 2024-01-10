@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b03f9a66.css",
-    "main.js": "/static/js/main.579ca07b.js",
+    "main.css": "/static/css/main.d0988d2e.css",
+    "main.js": "/static/js/main.0a4b0eba.js",
     "static/js/787.75ba1075.chunk.js": "/static/js/787.75ba1075.chunk.js",
     "static/media/Madhukar-Kumar-Resume.pdf": "/static/media/Madhukar-Kumar-Resume.66d1a77aa7350cabf35f.pdf",
     "static/media/madhukar.png": "/static/media/madhukar.da6989130421616c231e.png",
@@ -10,12 +10,12 @@
     "static/media/GreenParadise.png": "/static/media/GreenParadise.42795db4d0afa7eac9ee.png",
     "static/media/BedBathBeyond.png": "/static/media/BedBathBeyond.400891008773fbefdd85.png",
     "index.html": "/index.html",
-    "main.b03f9a66.css.map": "/static/css/main.b03f9a66.css.map",
-    "main.579ca07b.js.map": "/static/js/main.579ca07b.js.map",
+    "main.d0988d2e.css.map": "/static/css/main.d0988d2e.css.map",
+    "main.0a4b0eba.js.map": "/static/js/main.0a4b0eba.js.map",
     "787.75ba1075.chunk.js.map": "/static/js/787.75ba1075.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b03f9a66.css",
-    "static/js/main.579ca07b.js"
+    "static/css/main.d0988d2e.css",
+    "static/js/main.0a4b0eba.js"
   ]
 }
