@@ -140,6 +140,7 @@ video {
 }
 
 /* ------------------------------------ Media for Container */
+
 @media (min-width: 576px) {
   .Container {
     max-width: 540px;

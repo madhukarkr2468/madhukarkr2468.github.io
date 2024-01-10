@@ -29,7 +29,7 @@ export const Tech = styled.div`
   max-width: 100px;
   min-width: 100px;
   margin-bottom: 2rem;
-  // border:2px solid red;
+  // border:2px solid black;
 `;
 
 export const TechImg = styled.img`
