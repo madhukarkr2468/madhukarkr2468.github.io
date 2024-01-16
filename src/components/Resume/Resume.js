@@ -1,10 +1,10 @@
-import Madhukar_Resume from "./Madhukar-Kumar-Resume.pdf";
+import Madhukar_Resume from "./Madhukar-kumar-Resume.pdf";
 import styled from "styled-components";
 import { Button } from "./ResumeElements";
 export const Resume1 = () => {
   const openResume = () => {
      window.open(
-      "https://drive.google.com/file/d/1GfB9qLb-wJ5TbeFApF8oo23UMhBsbO3q/view?usp=drive_link"
+      "https://drive.google.com/file/d/15awixk1doQqpm2xmTP_Ot7Fb3FoUo9R6/view?usp=sharing"
         );
   };
   return (
@@ -32,7 +32,7 @@ export const Resume1 = () => {
 export const Resume2 = () => {
   const openResume = () => {
      window.open(
-          "https://drive.google.com/file/d/1GfB9qLb-wJ5TbeFApF8oo23UMhBsbO3q/view?usp=drive_link"
+          "https://drive.google.com/file/d/15awixk1doQqpm2xmTP_Ot7Fb3FoUo9R6/view?usp=sharing"
         );
   };
 
