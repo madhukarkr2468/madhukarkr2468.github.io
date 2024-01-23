@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.88f3af8f.css",
-    "main.js": "/static/js/main.0a4b0eba.js",
+    "main.css": "/static/css/main.a12d53b4.css",
+    "main.js": "/static/js/main.4db28193.js",
     "static/js/787.75ba1075.chunk.js": "/static/js/787.75ba1075.chunk.js",
-    "static/media/Madhukar-Kumar-Resume.pdf": "/static/media/Madhukar-Kumar-Resume.66d1a77aa7350cabf35f.pdf",
+    "static/media/Madhukar-kumar-Resume.pdf": "/static/media/Madhukar-kumar-Resume.ac26b0f38f0cf38753d9.pdf",
     "static/media/madhukar.png": "/static/media/madhukar.da6989130421616c231e.png",
     "static/media/Myntra.png": "/static/media/Myntra.2a85eeee2ed971434fd7.png",
     "static/media/Sugar.png": "/static/media/Sugar.0cb8f4a3d38332269f31.png",
     "static/media/GreenParadise.png": "/static/media/GreenParadise.42795db4d0afa7eac9ee.png",
     "static/media/BedBathBeyond.png": "/static/media/BedBathBeyond.400891008773fbefdd85.png",
     "index.html": "/index.html",
-    "main.88f3af8f.css.map": "/static/css/main.88f3af8f.css.map",
-    "main.0a4b0eba.js.map": "/static/js/main.0a4b0eba.js.map",
+    "main.a12d53b4.css.map": "/static/css/main.a12d53b4.css.map",
+    "main.4db28193.js.map": "/static/js/main.4db28193.js.map",
     "787.75ba1075.chunk.js.map": "/static/js/787.75ba1075.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88f3af8f.css",
-    "static/js/main.0a4b0eba.js"
+    "static/css/main.a12d53b4.css",
+    "static/js/main.4db28193.js"
   ]
 }
