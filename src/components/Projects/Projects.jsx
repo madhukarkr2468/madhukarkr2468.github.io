@@ -13,7 +13,7 @@ const data = [
         projectTitle: "Sugar Cosmetics",
         techStack: ["React", "Redux", "CSS", "JavaScript ", "RazorPay" ],
         description: "Sugar Cosmetics is a popular beauty brand known for its diverse range of cruelty-free makeup products. From vivid lipsticks to precise eyeliners, Sugar offers high-quality cosmetics that cater to various styles and skin tones.",
-        githubLink: "",
+        githubLink: "https://github.com/Madhukarkrgithub/Sugar-Cosmetics",
         appLink: "https://sugarcosmetics-awcs4db1s-navtejs-projects.vercel.app/"
     },
     {
